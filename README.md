@@ -5,6 +5,7 @@ The critical code we deploy to production has been audited by various audit part
 
 You can find the past public audit reports the project has concluded below:
 
+- [2025-11 Avail Nexus Vault Contracts Audit](https://github.com/availproject/audits/blob/bbac2d56b02966d915a5f11b6a9c788b2734c909/2025-11%20Avail%20Nexus%20Vault%20Final%20Audit%20Report.pdf) 
 - [2024-05 Avail Node and Vector Bridge Audit](https://github.com/availproject/audits/blob/c713cce4bff25696fbd199cb976ca98833e69550/2024-05%20Avail%20Node%20and%20Vector%20Bridge%20Audit.PDF.pdf)
 - [2024-05 Avail Vector Bridge Security Audit](https://github.com/availproject/audits/blob/c713cce4bff25696fbd199cb976ca98833e69550/2024-05%20Avail%20Vector%20Bridge%20Security%20Audit.pdf)
 - [2024-05 MetaMask Snap for Avail Audit](https://github.com/availproject/audits/blob/main/Sayfer%20-%202024-05%20Metamask%20Snap%20Audit%20for%20Avail%20(1).pdf)
